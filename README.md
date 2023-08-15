@@ -2,6 +2,10 @@
 
 Welcome to RefugeeLink, a powerful microservice aimed at facilitating the integration of refugees into host communities. This project aims to connect refugees with local support networks, essential resources, and meaningful employment opportunities, ultimately contributing to a successful and harmonious integration process.
 
+# Description
+
+RefugeeLink is a transformative microservice designed to bridge the gap between refugees and their new host communities. By seamlessly connecting refugees with local support networks, vital resources, and promising employment opportunities, RefugeeLink paves the way for a successful and harmonious integration process. Our platform fosters a sense of belonging, empowerment, and collaboration, facilitating the journey towards a brighter future for both refugees and their welcoming communities.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
